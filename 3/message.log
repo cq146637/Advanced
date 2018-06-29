@@ -1,0 +1,75 @@
+2018-06-26 11:50:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-26 11:50:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-26 11:50:01 iZb9jiqun54pmyZ systemd: Started Session 10 of user root.
+2018-06-26 11:50:01 iZb9jiqun54pmyZ systemd: Starting Session 10 of user root.
+2018-06-26 11:50:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-26 11:50:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-26 12:00:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-26 12:00:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-26 12:00:01 iZb9jiqun54pmyZ systemd: Started Session 11 of user root.
+2018-06-26 12:00:01 iZb9jiqun54pmyZ systemd: Starting Session 11 of user root.
+2018-06-26 12:00:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-26 12:00:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-26 12:01:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-26 12:01:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-26 12:01:01 iZb9jiqun54pmyZ systemd: Started Session 12 of user root.
+2018-06-26 12:01:01 iZb9jiqun54pmyZ systemd: Starting Session 12 of user root.
+2018-06-26 12:01:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-26 12:01:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-27 12:10:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-27 12:10:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-27 12:10:01 iZb9jiqun54pmyZ systemd: Started Session 13 of user root.
+2018-06-27 12:10:01 iZb9jiqun54pmyZ systemd: Starting Session 13 of user root.
+2018-06-27 12:10:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-27 12:10:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-27 12:20:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-27 12:20:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-27 12:20:01 iZb9jiqun54pmyZ systemd: Started Session 14 of user root.
+2018-06-27 12:20:01 iZb9jiqun54pmyZ systemd: Starting Session 14 of user root.
+2018-06-27 12:20:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-27 12:20:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-27 12:30:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-27 12:30:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-27 12:30:01 iZb9jiqun54pmyZ systemd: Started Session 15 of user root.
+2018-06-27 12:30:01 iZb9jiqun54pmyZ systemd: Starting Session 15 of user root.
+2018-06-27 12:30:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-27 12:30:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-27 12:40:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-27 12:40:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-27 12:40:01 iZb9jiqun54pmyZ systemd: Started Session 16 of user root.
+2018-06-27 12:40:01 iZb9jiqun54pmyZ systemd: Starting Session 16 of user root.
+2018-06-27 12:40:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-27 12:40:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-27 12:50:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-27 12:50:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-27 12:50:01 iZb9jiqun54pmyZ systemd: Started Session 17 of user root.
+2018-06-27 12:50:01 iZb9jiqun54pmyZ systemd: Starting Session 17 of user root.
+2018-06-27 12:50:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-27 12:50:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-28 13:00:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-28 13:00:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-28 13:00:01 iZb9jiqun54pmyZ systemd: Started Session 18 of user root.
+2018-06-28 13:00:01 iZb9jiqun54pmyZ systemd: Starting Session 18 of user root.
+2018-06-28 13:00:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-28 13:00:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-28 13:01:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-28 13:01:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-28 13:01:01 iZb9jiqun54pmyZ systemd: Started Session 19 of user root.
+2018-06-28 13:01:01 iZb9jiqun54pmyZ systemd: Starting Session 19 of user root.
+2018-06-28 13:01:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-28 13:10:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-28 13:10:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-28 13:10:01 iZb9jiqun54pmyZ systemd: Started Session 20 of user root.
+2018-06-28 13:10:01 iZb9jiqun54pmyZ systemd: Starting Session 20 of user root.
+2018-06-28 13:10:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-28 13:10:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-28 13:20:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-28 13:20:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-28 13:20:01 iZb9jiqun54pmyZ systemd: Started Session 21 of user root.
+2018-06-28 13:20:01 iZb9jiqun54pmyZ systemd: Starting Session 21 of user root.
+2018-06-28 13:20:01 iZb9jiqun54pmyZ systemd: Removed slice user-0.slice.
+2018-06-28 13:20:01 iZb9jiqun54pmyZ systemd: Stopping user-0.slice.
+2018-06-28 13:30:01 iZb9jiqun54pmyZ systemd: Created slice user-0.slice.
+2018-06-28 13:30:01 iZb9jiqun54pmyZ systemd: Starting user-0.slice.
+2018-06-28 13:30:01 iZb9jiqun54pmyZ systemd: Started Session 22 of user root.
+2018-06-28 13:30:01 iZb9jiqun54pmyZ systemd: Starting Session 22 of user root.
